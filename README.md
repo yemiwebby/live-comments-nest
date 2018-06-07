@@ -9,10 +9,12 @@ Screenshot of the demo app
 
 ## Getting Started
 
+
 ### Clone the repository
 ```bash
 $ git clone https://github.com/yemiwebby/live-comments-nest.git
 ```
+
 
 ### Change directory
 ```bash
@@ -23,6 +25,7 @@ $ cd live-comments-nest
 ```bash
 $ npm install
 ```
+
 
 ## Prerequisites
 A basic knowledge of TypeScript and Node.js
